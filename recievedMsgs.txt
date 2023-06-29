@@ -1,0 +1,13 @@
+Instalar body-parser:  npm install express body-parser
+
+Importar : const bodyParser = require('body-parser')
+
+descargar: nwrok.   https://ngrok.com/download  y guardar dentro de la carpeta en desktop
+
+correr el programa : .\ngrok http 3000
+
+copiar : Forwarding                    https://e80a-189-217-193-24.ngrok.io
+
+y pegarlo en la interfaz junto con la ruta :   https://f579-201-137-199-31.ngrok.io/ultramsgwebhook   (activar webhook)
+
+correr servidor : "script"
